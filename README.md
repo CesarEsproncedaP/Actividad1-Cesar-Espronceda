@@ -48,6 +48,6 @@ java *.java
 
 # Task List
 - [ ] Tarea 1
-- [ ] Tarea 2
+- [X] Tarea 2
 - [ ] Actividad 3
-- [ ] Actividad 4
+- [X] Actividad 4
