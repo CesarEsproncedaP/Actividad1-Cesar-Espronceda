@@ -18,4 +18,4 @@ Pila: Es la clase en donde se implementan las pilas para manejar los comandos.
 
 ¿Como ejecutar el programa?
 
-Para ejecutar el programa es muy facil, solamente debes de descargar todas las clases y ponerlas en una misma carpeta, despues debes de abrir Visual Studio Code o tu IDE, poner la carpeta con las clases, irte a la clase "Main" y picarle al botón de play que dice " Run Java " para ejecutar el programa, una vez que le hayas picado el programa se ejecutara y podrás usar el programa.
+Para ejecutar el programa es muy facil, solamente debes de descargar todas las clases que están adentro de la carpeta llamada Act1 y ponerlas en una misma carpeta, despues debes de abrir Visual Studio Code o tu IDE, poner la carpeta con las clases, irte a la clase "Main" y picarle al botón de play que dice " Run Java " para ejecutar el programa, una vez que le hayas picado el programa se ejecutara y podrás usar el programa.
