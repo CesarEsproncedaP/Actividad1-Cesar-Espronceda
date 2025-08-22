@@ -51,3 +51,10 @@ java *.java
 - [X] Tarea 2
 - [ ] Actividad 3
 - [X] Actividad 4
+
+# Tabla
+
+First Name | Laast Name
+-----------|------------
+Ricardo | Elizalde
+Beatriz | Lagunes
